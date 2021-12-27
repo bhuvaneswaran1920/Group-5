@@ -8,7 +8,7 @@ TEAM MEMBERS:
 1. Harish Kumar. M - 18MIS1031
 2. Harshit. D - 18MIS1038
 3. Bhuvaneswaran. B - 18MIS1043
-4. Aravinshan. V - 18MIS1052
+4. Aravindhan. V - 18MIS1052
 5. Dhanush. s - 18MIS1083
 
 TO RUN:
