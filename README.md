@@ -12,8 +12,13 @@ TEAM MEMBERS:
 5. Dhanush. s - 18MIS1083
 
 TO RUN:
-This project is done using Html, Css, And php. The database connection is established using MySql.
-We need to download Xampp to run this php project.
-We need to Turn on Apache and Mysql Server.
-We have to copy and paste our project files into htdocs folder of Xampp.
-Next we need to press the admin button of the apache server. It will redirect us to the home page of our website.
+
+-->This project is done using Html, Css, And php. The database connection is established using MySql.
+
+-->We need to download Xampp to run this php project.
+
+-->We need to Turn on Apache and Mysql Server.
+
+-->We have to copy and paste our project files into htdocs folder of Xampp.
+
+-->Next we need to press the admin button of the apache server. It will redirect us to the home page of our website.
