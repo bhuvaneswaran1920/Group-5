@@ -22,3 +22,7 @@ TO RUN:
 -->We have to copy and paste our project files into htdocs folder of Xampp.
 
 -->Next we need to press the admin button of the apache server. It will redirect us to the home page of our website.
+
+USER-APP:
+
+The app is developed for Customer purpose who are in emergency. They can easily avail our service by just pressing a button.We will be Recieving Your Queries to our Business number and our Business Mail.
